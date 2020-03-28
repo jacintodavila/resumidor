@@ -1,7 +1,7 @@
 % resumidorcompleto.pl
-% text summarizer for spanish and english texts. 
+% text summarizer for spanish and english texts.
 %
-%    Copyright (C) 2015 
+%    Copyright (C) 2015
 %    Jacinto Dávila, Hilda Yelitza Contreras, M. Marilú Parra, Jose Lopez
 %
 %    This program is free software: you can redistribute it and/or modify
@@ -17,6 +17,8 @@
 %    You should have received a copy of the GNU Affero General Public License
 %    along with this program.  If not, see <http://www.gnu.org/licenses/>
 %
+
+:- discontiguous claridad/2, es_conjuncion/1.
 
 :- [resumidorpaso1entradas].
 :- [resumidorpaso2gramatica].
