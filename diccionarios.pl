@@ -268,7 +268,8 @@ verb(verbo([recruited])) --> [recruited].
 verb(verbo([recruiting])) --> [recruiting].
 verb(verbo([reveal])) --> [reveal].
 verb(verbo([reveals])) --> [reveals].
-verb(verbo([revealed])) --> [revealing].
+verb(verbo([revealed])) --> [revealed].
+verb(verbo([revealing])) --> [revealing].
 verb(verbo([report])) --> [report].
 verb(verbo([reports])) --> [reports].
 verb(verbo([reported])) --> [reported].
