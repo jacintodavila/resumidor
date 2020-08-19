@@ -354,6 +354,10 @@ verb(verbo([activate])) --> [activate].
 verb(verbo([activates])) --> [activates].
 verb(verbo([activated])) --> [activated].
 verb(verbo([activating])) --> [activating].
+verb(verbo([inactivate])) --> [inactivate].
+verb(verbo([inactivates])) --> [inactivates].
+verb(verbo([inactivated])) --> [inactivated].
+verb(verbo([inactivating])) --> [inactivating].
 % agregado 2015-08-25
 verb(verbo([phosphorylate])) --> [phosphorylate].
 verb(verbo([phosphorylates])) --> [phosphorylates].
