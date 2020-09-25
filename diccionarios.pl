@@ -234,14 +234,18 @@ verb(verbo([have])) --> [have].
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 verb(verbo([is])) --> [is].
+verb(verbo([coordinate])) --> [coordinate].
 verb(verbo([coordinates])) --> [coordinates].
+verb(verbo([coordinated])) --> [coordinated].
+verb(verbo([coordinating])) --> [coordinating].
 verb(verbo([maintain])) --> [maintain].
 verb(verbo([maintains])) --> [maintains].
 verb(verbo([maintained])) --> [maintained].
 verb(verbo([maintaining])) --> [maintaining].
 verb(verbo([gain])) --> [gain].
 verb(verbo([gains])) --> [gains].
-verb(verbo([gained])) --> [gaining].
+verb(verbo([gained])) --> [gained].
+verb(verbo([gaining])) --> [gaining].
 verb(verbo([loss])) --> [loss].
 verb(verbo([losses])) --> [losses].
 verb(verbo([lossed])) --> [lossed].
@@ -358,6 +362,10 @@ verb(verbo([inactivate])) --> [inactivate].
 verb(verbo([inactivates])) --> [inactivates].
 verb(verbo([inactivated])) --> [inactivated].
 verb(verbo([inactivating])) --> [inactivating].
+verb(verbo([repress])) --> [repress].
+verb(verbo([represses])) --> [represses].
+verb(verbo([repressed])) --> [repressed].
+verb(verbo([repressing])) --> [repressing].
 % agregado 2015-08-25
 verb(verbo([phosphorylate])) --> [phosphorylate].
 verb(verbo([phosphorylates])) --> [phosphorylates].
@@ -376,7 +384,6 @@ verb(verbo([associate])) --> [associate].
 verb(verbo([associates])) --> [associates].
 verb(verbo([associated])) --> [associated].
 verb(verbo([associating])) --> [associating].
-
 verb(verbo([dimerize])) --> [dimerize].
 verb(verbo([dimerizes])) --> [dimerizes].
 verb(verbo([dimerized])) --> [dimerized].
@@ -407,10 +414,6 @@ verb(verbo([act])) --> [act].
 verb(verbo([acts])) --> [acts].
 verb(verbo([acted])) --> [acted].
 verb(verbo([acting])) --> [acting].
-verb(verbo([increase])) --> [increase].
-verb(verbo([increases])) --> [increases].
-verb(verbo([increased])) --> [increased].
-verb(verbo([increasing])) --> [increasing].
 verb(verbo([confer])) --> [confer].
 verb(verbo([confers])) --> [confers].
 verb(verbo([conferred])) --> [conferred].
